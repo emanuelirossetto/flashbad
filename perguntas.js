@@ -13,7 +13,7 @@ criaCartao(
     'Geografia',
     'Qual o maior pais do mundo',
     'Russia'
-
+)
 
 criaCartao(
     'ingles',
@@ -55,4 +55,5 @@ criaCartao(
     'Quimica',
     'Quantos elementos quimicos tem na tabela periodica?',
     '118'
+
 )
