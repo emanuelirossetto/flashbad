@@ -10,9 +10,9 @@ criaCartao(
     'Pré história'
 )
 criaCartao(
-)   'Geografia',
+    'Geografia',
     'Qual o maior pais do mundo',
-    'Russia',
+    'Russia'
 
 
 criaCartao(
@@ -41,7 +41,7 @@ criaCartao(
 criaCartao(
     'Portugues',
     'Quantos litros de sangue uma pessoa tem?',
-    'Entre 4 a 6 litros',
+    'Entre 4 a 6 litros'
 )
 
 criaCartao(
@@ -54,5 +54,5 @@ criaCartao(
 criaCartao(
     'Quimica',
     'Quantos elementos quimicos tem na tabela periodica?',
-    '118',
+    '118'
 )
